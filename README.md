@@ -4,6 +4,6 @@ Official Yfin packages are easy to install because their git repo is linked with
 
 The packages take the format
 ```
-GithubUsername/GithubRepository->package-name
+GithubUsername/GithubRepository:package-name
 ```
 Spaces should be replaced with hyphens and there should be no capital letters
